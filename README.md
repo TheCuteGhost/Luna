@@ -1,2 +1,2 @@
 # Luna
-A virtual assistant
+A virtual assistant made from an internet tutorial 
